@@ -23,7 +23,7 @@ Develop bug-free apps faster
   - Dedicate a time slot to writing UI tests without spending more time then allocated
   - Avoid UI Tests and abstract the view controller so you can write unit tests on user's input/output
 
-  [More Details](uitesting)
+  [More Details](UITesting.md)
 
 ####CI Server
  - Travis
