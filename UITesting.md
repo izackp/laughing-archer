@@ -6,11 +6,12 @@ This is mostly research to help me decide which is the best framework to go with
 The overall goal is to keep anyone from having to work until midnight testing the same features over and over again through a completely automated process.
 
 ## Contents
-- [KIF](####kif)
-- [Calabash](####calabash)
-- [Unit Tests For View Controllers](####unit-tests-for-view-controllers)
-- [Instruments](####instruments)
-- [KIF vs Calabash](####kif-vs-calabash)
+- [KIF](#kif)
+- [Calabash](#calabash)
+- [Unit Tests For View Controllers](#unit-tests-for-view-controllers)
+- [Appium](#appium)
+- [Instruments](#instruments)
+- [KIF vs Calabash](#kif-vs-calabash)
 
 ####KIF
 
