@@ -7,7 +7,7 @@ The overall goal is to keep anyone from having to work until midnight testing th
 
 ## Contents
 - [KIF](####kif)
-- [Calaba.sh](####calabash)
+- [Calabash](####calabash)
 - [Unit Tests For View Controllers](####unit-tests-for-view-controllers)
 - [Instruments](####instruments)
 - [KIF vs Calabash](####kif-vs-calabash)
