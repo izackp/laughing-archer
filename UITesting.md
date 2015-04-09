@@ -5,6 +5,13 @@ This is mostly research to help me decide which is the best framework to go with
 
 The overall goal is to keep anyone from having to work until midnight testing the same features over and over again through a completely automated process.
 
+## Contents
+- [KIF](#KIF)
+- [Calaba.sh](#Calaba.sh)
+- [Unit Tests For View Controllers](#Unit Tests For View Controllers)
+- [Instruments](#Instruments)
+- [KIF vs Calabash](#KIF vs Calabash)
+
 ####KIF
 
 http://github.com/kif-framework/KIF
@@ -86,7 +93,7 @@ Appium and ios-driver focus on leveraging the Selenium WebDriver protocol and su
 Conclusion: Seems like a solid framework..
 
 
-####The Apple Approach
+####Instruments
 
 The use of Instruments with the javascript UIAutomation library
 
