@@ -29,6 +29,8 @@ Develop bug-free apps faster
  - Travis
 
 ####Deployment
+The biggest problem is being able to produce a signed ipa and uploading the ipa to iTunes Testflight.
+
  - https://fastlane.tools/ - Seems to provide a *lot* of tools to deploy builds with. Documentation seems lacking.
- - altool - Used to submit IPAs to iTunes
+ - altool - Used to submit IPAs to iTunes. Can probably be used in combination with these travis scripts: http://www.objc.io/issue-6/travis-ci.html
  - Hockeyapp - Deployment software for both iOS and Android
