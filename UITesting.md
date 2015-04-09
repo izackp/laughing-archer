@@ -6,11 +6,11 @@ This is mostly research to help me decide which is the best framework to go with
 The overall goal is to keep anyone from having to work until midnight testing the same features over and over again through a completely automated process.
 
 ## Contents
-- [KIF](#KIF)
-- [Calaba.sh](#Calaba.sh)
-- [Unit Tests For View Controllers](#Unit Tests For View Controllers)
-- [Instruments](#Instruments)
-- [KIF vs Calabash](#KIF vs Calabash)
+- [KIF](####kif)
+- [Calaba.sh](####calabash)
+- [Unit Tests For View Controllers](####unit-tests-for-view-controllers)
+- [Instruments](####instruments)
+- [KIF vs Calabash](####kif-vs-calabash)
 
 ####KIF
 
@@ -36,7 +36,7 @@ KIF takes the approach of writing each UI test in Objective-C as an XCTestCase a
 Conclusion: Not worried about the cons. Seems like a great solution. Integrated into Xcode testing is a Huge Plus.
 
 
-####Calaba.sh
+####Calabash
 
 http://Calaba.sh
 
